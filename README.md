@@ -19,3 +19,10 @@ todo:
 3. multiplayer
 4. AI vs AI
 
+---
+
+r1-zero on this.
+
+train a based ai model to get score of choice(相当于爆算一个概率)
+
+cold start llm + rl
